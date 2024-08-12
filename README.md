@@ -1,12 +1,4 @@
 # Anteproyecto "tucerficado.co" 👩🏼‍🎓
-
-La web [tucerticado.co](https://tucertificado.co/) esta basada en el proyecto titulado "Desarrollo de una plataforma para la emision de certificados de los eventos a realizarse en el programa de ingenieria de sistemas de la universidad de cundinamarca - seccional ubate" que fue presentado durante <strong>IIPA 2023 para III Ciclo</strong> del programa de Ingenieria de Sistemas <br>
-
-* PGC (Proyecto de Gestion de Conocimiento)
-* IX Semestre
-* III Ciclo
-* Ingenieria de Sistemas - Universidad de Cundinamarca, Seccional de Ubaté
-
 > [!NOTE]
 > A continuación se presenta cada una de las "Betas" de ejecución en donde el programa fue puesto a prueba y usado por la Universidad de Cundinamarca - Seccional Ubaté <br><br>
 > Beta 1: Estructura funcional del Mockup -> (5 certificados) <br> 
