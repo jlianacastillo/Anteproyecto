@@ -1,4 +1,5 @@
 # Anteproyecto "tucerficado.co" 👩🏼‍🎓
+
 > [!NOTE]
 > A continuación se presenta cada una de las "Betas" de ejecución en donde el programa fue puesto a prueba y usado por la Universidad de Cundinamarca - Seccional Ubaté <br><br>
 > Beta 1: Estructura funcional del Mockup -> (5 certificados) <br> 
